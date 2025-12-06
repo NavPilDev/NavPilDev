@@ -4,7 +4,7 @@
 
 I'm a senior at the University of Oklahoma, graduating in 2026, who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
-🔭 I’m currently working on [CandidAI](https://github.com/NavPilDev/CandidAI) and [OU William Kerber Software Studio][https://github.com/NavPilDev/SoftwareStudioOU]
+🔭 I’m currently working on [CandidAI](https://github.com/NavPilDev/CandidAI) and [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU)
 
 🌱 I’m currently learning **AWS, SQL, and Java + Springboot**
 
