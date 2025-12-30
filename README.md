@@ -1,6 +1,6 @@
 # 🏄‍♂️ Abhinav Pillai
 
-**`Fullstack + AI/ML Software Engineering`**
+**`Fullstack Software Engineer + Game Developer`**
 
 I'm a senior at the University of Oklahoma, graduating in 2026, who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
