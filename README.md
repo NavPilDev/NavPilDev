@@ -1,12 +1,12 @@
 # 🏄‍♂️ Abhinav Pillai
 
-**`Fullstack Software Engineer + Game Developer`**
+**`Fullstack Software Engineer + AI Researcher`**
 
 I'm a senior at the University of Oklahoma, graduating in 2026, who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
-🔭 I’m currently working on [CandidAI](https://github.com/NavPilDev/CandidAI) and [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU)
+🔭 I’m currently working on a [C#(.net) game](https://github.com/NavPilDev/CandidAI), [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research on what qualifies as an efficient qualitative research method depending on different problem sizes within research papers.
 
-🌱 I’m currently learning **AWS, SQL, and Java + Springboot**
+🌱 I’m currently learning **AWS, .NET Framework, and Python Scikit-learn**
 
 👨‍💻 All of my projects are available at [https://navpil.dev](https://navpil.dev)
 
