@@ -4,7 +4,7 @@
 
 I'm a senior at the University of Oklahoma, graduating in 2026, who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
-🔭 I’m currently working on a [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research (with Dr. Ze Shi Li) on what qualifies as an efficient qualitative research method depending on different problem sizes within research papers.
+🔭 I’m currently working on Chaptera(Mobile App), [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research (with Dr. Ze Shi Li) on [SourceDoc](https://github.com/NavPilDev/SourceDoc).
 
 🌱 I’m currently learning **AWS, .NET Framework, and Python Scikit-learn**
 
