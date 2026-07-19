@@ -6,7 +6,7 @@ I'm a August 2026 new grad Computer Science major from the University of Oklahom
 
 🔭 I’m currently working on a new game: [Lens Room](), [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research (with Dr. Ze Shi Li) on [SourceDoc](https://github.com/NavPilDev/SourceDoc).
 
-🌱 I’m currently learning **AWS, .NET Framework, and Python Scikit-learn**
+🌱 I’m currently learning **AWS, Unreal Engine, and C++**
 
 👨‍💻 All of my projects are available at [https://navpil.dev](https://navpil.dev)
 
