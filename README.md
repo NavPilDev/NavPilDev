@@ -4,7 +4,7 @@
 
 I'm a May 2026 new grad Computer Science major from the University of Oklahoma who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
-🔭 I’m currently working on my startup [Tether](https://tethercampaign.com), Chaptera(Mobile App), [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research (with Dr. Ze Shi Li) on [SourceDoc](https://github.com/NavPilDev/SourceDoc).
+🔭 I’m currently working on a new game: [Lens Room](), [OU William Kerber Software Studio](https://github.com/NavPilDev/SoftwareStudioOU), and AI Research (with Dr. Ze Shi Li) on [SourceDoc](https://github.com/NavPilDev/SourceDoc).
 
 🌱 I’m currently learning **AWS, .NET Framework, and Python Scikit-learn**
 
