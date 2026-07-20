@@ -4,7 +4,7 @@
 
 I'm a August 2026 new grad Computer Science major from the University of Oklahoma who loves building coding projects from the ground up. From planning and designing all the way to solving real-life problems with code, I stay passionate about the code I create.
 
-🔭 I’m currently working on a new game: [Lens Room](), [resumake.cv](https://github.com/NavPilDev/resumake.cv), and AI Research (with Dr. Ze Shi Li) on [SourceDoc](https://github.com/NavPilDev/SourceDoc).
+🔭 I’m currently working on a new game: [Lens Room]() and [resumake.cv](https://github.com/NavPilDev/resumake.cv).
 
 🌱 I’m currently learning **Unreal Engine, C++, and AWS**
 
