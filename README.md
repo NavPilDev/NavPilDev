@@ -6,7 +6,7 @@ I'm an August 2026 new grad Computer Science major from the University of Oklaho
 
 🔭 I’m currently working on [resumake.cv](https://github.com/NavPilDev/resumake.cv) and a new game: [Lens Room]() 
 
-🌱 I’m currently learning **Unreal Engine, C++, and AWS**
+🌱 I’m currently learning ** GameDev(Godot/GDSCript, Blender, and more)**
 
 👨‍💻 All of my projects are available at [https://navpil.dev](https://navpil.dev)
 
